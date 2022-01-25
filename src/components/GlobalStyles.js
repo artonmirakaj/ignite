@@ -50,6 +50,10 @@ const GlobalStyles = createGlobalStyle`
   img {
     display: block;
   }
+
+  input {
+    font-weight: bold;
+  }
 `;
 
 export default GlobalStyles;
